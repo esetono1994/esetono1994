@@ -1,13 +1,13 @@
 mrchinguo1313@gmail.com
 esetono1994/esetono1994 is a ✨ special ✨ repository because its `README.md` (this file)4
- Diagnostic Info
+ Diagnostic Info https://cash.app/$ono1995
 ACType
 0
 Block Type
 aup
 Bundle ID
 9694607
-Domain Tagging
+Domain Tagging tono_admin
 -
 Host
 opendns.com
