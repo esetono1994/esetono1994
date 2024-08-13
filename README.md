@@ -10,7 +10,7 @@ Bundle ID
 Domain Tagging
 -
 Host
-block.opendns.com
+opendns.com
 IP Address
 172.56.79.85
 Org ID
