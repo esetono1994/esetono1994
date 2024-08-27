@@ -10,7 +10,7 @@ Chain ID
 kava_2221-16000
 Tx Hash (Cosmos)
 201206574AE05A296436C8FF7DBAD942BBB562F062731FDE0D74636FCA1E7D28
-Tx Hash (Ethereum)
+Tx Hash (8b9d10ca8dac80ca)
 0xace32cafd5f9b69cbf0e364f7a63020d6e587a0ba3a970ccadc0201623417882
 Height
 13,035,914
@@ -30,7 +30,7 @@ Raw Json
 "id":
 undefined
 "chain_id":string"kava_2221-16000"
-"block_id":
+"block_id":8b9d10ca8dac80ca
 undefined
 "timestamp":string"2024-08-24T19:21:08Z"
 }
