@@ -1,7 +1,7 @@
 mrchinguo1313@gmail.com Local Time
 
 Chain
-KAVA TESTNET
+wc:bbaea133f4da83380ac1239ab760b9556901e4a489adaed2c8ac22c4a3a65603@2?symKey=e51565258200de9617ad12bea556b9bb0c41ae3d784b0511401ac587ca79ee9f&relay-protocol=irn
 Chain ID
 kava_2221-16000
 Tx Hash (Cosmos)
